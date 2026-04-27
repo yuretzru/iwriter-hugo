@@ -6,13 +6,12 @@ layout: "about"
 button: "read more"
 draft: false
 ---
-
-## Hi,I’m Linda McCoy Specilized In Blog Writing And Collecting
+## ZZZZ! Hi,I’m Linda McCoy Specilized In Blog Writing And Collecting
 
 Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level
 overviews. Iterative approaches to corporate strategy foster collaborative thinking to
 further the overall value proposition. Organically grow the holistic world view of
-disruptive innovation via workplace diversity and empowerment. 
+disruptive innovation via workplace diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of
 the day, going forward, a new normal that has evolved from generation X is on the
@@ -24,19 +23,19 @@ scalable metrics whereas proactive e-services. Seamlessly empower fully research
 growth strategies and interoperable internal or “organic” sources.
 
 ### Our Skill
+
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
 ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
 accusam et justo duo dolores et ea rebum.
 
-  * Poutine drinking vinegar bitters.
-  * Literally cred narwhal bitters wayfarers.
-  * justo duo dolores et ea rebum.
+* Poutine drinking vinegar bitters.
+* Literally cred narwhal bitters wayfarers.
+* justo duo dolores et ea rebum.
 
 {{< button "Read More" "#!" >}}
 
-
-
 ### Youtube
+
 {{< youtube g3-VxLQO7do >}}
 
 Credibly reintermediate backend ideas for cross-platform models. Continually
